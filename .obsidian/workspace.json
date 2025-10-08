@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "e8b1e7079213cea7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a0fe6c66f88da91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b08ec97de616fe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EXPLOITATION/SMB credentials capturing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "SMB credentials capturing"
+            }
+          },
+          {
+            "id": "88d9d0c8d7fa9f82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRIVILEGE ESCALATION/System flag.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "System flag"
+            }
+          },
+          {
+            "id": "878a0a08a13ccd51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EXPLOITATION/User's flag.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "User's flag"
+            }
+          },
+          {
+            "id": "08d52ae493791755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRIVILEGE ESCALATION/Pipe Impersonation (PrintSpooler).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Pipe Impersonation (PrintSpooler)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59f5b281e6b58f79",
+    "type": "split",
+    "children": [
+      {
+        "id": "941175c1b68bc5c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49d2e38fa784abc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "91c119d2813493c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f96d0dd5b100941c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a605ebd7d88e884",
+    "type": "split",
+    "children": [
+      {
+        "id": "57f02e6917260f9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccc02e77c44db05e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "lucide-ghost",
+              "title": "backlink"
+            }
+          },
+          {
+            "id": "0749071249cbc61a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "2832ae88491beccb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ef987eada1a092d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EXPLOITATION/SMB credentials capturing.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SMB credentials capturing"
+            }
+          },
+          {
+            "id": "234e1b52f43a3509",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "acfee9d8c712cec4",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "juggl:Juggl global graph": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "8b08ec97de616fe5",
+  "lastOpenFiles": [
+    "README.md",
+    "index.md",
+    "PRIVILEGE ESCALATION/System flag.md",
+    "PRIVILEGE ESCALATION/Pipe Impersonation (PrintSpooler).md",
+    "EXPLOITATION/User's flag.md",
+    "EXPLOITATION/SMB credentials capturing.md",
+    "EXPLOITATION/Initial access.md",
+    "ENUMERATION/SMB.md",
+    "ENUMERATION/Redis.md",
+    "ENUMERATION/Network Map.md",
+    "docs/lib/metadata.json",
+    "docs/lib/media/6155340132a851f6089e.svg",
+    "docs/lib/media",
+    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/lib/fonts/454577c22304619db035.ttf",
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "images/Screenshot_2025-10-07_06-11-30.png",
+    "images/Screenshot_2025-10-07_05-30-15.png",
+    "images/Screenshot_2025-10-07_05-25-00.png",
+    "images/Screenshot_2025-10-07_05-02-59.png",
+    "images/1_O8u40tZ_W_inoAsND5hOLQ.webp",
+    "images/Screenshot_2025-10-06_04-57-27.png",
+    "images/Screenshot_2025-10-06_04-43-50.png",
+    "images/Screenshot_2025-10-04_14-36-22.png",
+    "images/Screenshot_2025-10-04_13-50-51 1.png",
+    "VulnActive/README.md",
+    "ENUMERATION/Nmap.md",
+    "ENUMERATION/Exploitation Scenarios.md",
+    "ENUMERATION/Redis (Port 6379).md"
+  ]
+}
