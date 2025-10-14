@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPLOITATION/SMB.md",
+                "file": "PRIVILEGE ESCALATION/DCSync Attack.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SMB"
+              "title": "DCSync Attack"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPLOITATION/First flag.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "First flag"
+              "title": "index"
             }
           },
           {
@@ -66,21 +66,8 @@
               "icon": "lucide-file",
               "title": "DCSync Attack"
             }
-          },
-          {
-            "id": "66e3c283280bbade",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Screenshot_2025-10-13_05-03-58.png"
-              },
-              "icon": "lucide-image",
-              "title": "Screenshot_2025-10-13_05-03-58"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Screenshot_2025-10-13_05-03-58.png",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Screenshot_2025-10-13_05-03-58"
+              "title": "Outline of README"
             }
           },
           {
@@ -272,48 +259,47 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "49d2e38fa784abc2",
+  "active": "8b08ec97de616fe5",
   "lastOpenFiles": [
-    "Untitled",
+    "index.md",
+    "PRIVILEGE ESCALATION/System flag.md",
     "PRIVILEGE ESCALATION/DCSync Attack.md",
-    "images/Screenshot_2025-10-13_06-03-45.png",
-    "images/Screenshot_2025-10-13_06-01-34.png",
-    "EXPLOITATION/First flag.md",
-    "PRIVILEGE ESCALATION",
-    "ENUMERATION/AS-REP Roasting.md",
-    "images/Screenshot_2025-10-13_05-38-02.png",
+    "EXPLOITATION/User flag.md",
     "EXPLOITATION/SMB.md",
     "EXPLOITATION/Gaining initial access.md",
     "ENUMERATION/Network map.md",
     "ENUMERATION/enum4linux-ng.md",
+    "ENUMERATION/AS-REP Roasting.md",
+    "README.md",
+    "docs/lib/metadata.json",
+    "docs/lib/media/6155340132a851f6089e.svg",
+    "docs/lib/media",
+    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/lib/fonts/454577c22304619db035.ttf",
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "images/Screenshot_2025-10-14_04-25-35.png",
+    "images/WinRM conection.png",
+    "images/Screenshot_2025-10-13_05-03-58.png",
+    "images/Screenshot_2025-10-13_06-03-45.png",
+    "images/Screenshot_2025-10-13_06-01-34.png",
+    "images/Screenshot_2025-10-13_05-38-02.png",
     "images/Screenshot_2025-10-13_05-24-03.png",
     "images/Screenshot_2025-10-13_05-16-58.png",
     "images/Screenshot_2025-10-13_05-07-05.png",
-    "images/Screenshot_2025-10-13_05-03-58.png",
-    "images/Screenshot_2025-10-08_05-48-23.png",
-    "README.md",
-    "images/Screenshot_2025-10-10_06-12-39.png",
-    "images/Screenshot_2025-10-10_06-03-35.png",
-    "EXPLOITATION",
     "ENUMERATION/SMB.md",
     "ENUMERATION/LDAP.md",
-    "ENUMERATION/images",
-    "index.md",
-    "ENUMERATION",
-    "images",
     "Welcome.md",
-    "PRIVILEGE ESCALATION/System flag.md",
     "PRIVILEGE ESCALATION/Pipe Impersonation (PrintSpooler).md",
     "EXPLOITATION/User's flag.md",
     "EXPLOITATION/SMB credentials capturing.md",
     "EXPLOITATION/Initial access.md",
     "ENUMERATION/Redis.md",
     "ENUMERATION/Network Map.md",
-    "docs/lib/metadata.json",
-    "docs/lib/media",
-    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
-    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
     "VulnActive/README.md",
     "ENUMERATION/Nmap.md",
     "ENUMERATION/Exploitation Scenarios.md",

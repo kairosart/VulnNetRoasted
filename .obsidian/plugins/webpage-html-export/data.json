@@ -17,7 +17,7 @@
   "logLevel": "warning",
   "minifyHTML": true,
   "makeNamesWebStyle": false,
-  "onlyExportModified": true,
+  "onlyExportModified": false,
   "deleteOldFiles": true,
   "addThemeToggle": false,
   "addOutline": false,
@@ -43,11 +43,12 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/home/emi/external/Obsidian/VulnActive/docs",
+  "exportPath": "/home/emi/external/Obsidian/VulnNetRoasted/docs",
   "filesToExport": [
     [
       "ENUMERATION",
       "EXPLOITATION",
+      "images",
       "PRIVILEGE ESCALATION",
       "index.md",
       "README.md"

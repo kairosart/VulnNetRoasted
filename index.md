@@ -10,3 +10,17 @@ Note: It _might_ take up to 6 minutes for this machine to fully boot.
 
 Icon made by [DinosoftLabs](https://www.flaticon.com/authors/dinosoftlabs) from [www.flaticon.com](https://www.flaticon.com/)
 
+
+---
+## Steps
+
+1. [[Network map]]
+2. [[enum4linux-ng]]
+3. [[AS-REP Roasting]]
+4. [[Gaining initial access]]
+5. [[SMB]]
+6. [[User flag]]
+7. [[DCSync Attack]]
+8. [[System flag]]
+9. [[README]]
+
